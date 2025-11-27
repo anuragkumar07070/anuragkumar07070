@@ -1,5 +1,5 @@
 # 💫 Hey , I am Anurag:
-🌱 Currently improving skills in React and Data Structures & Algorithms<br>🔹 Hands-on experience with HTML, CSS, JavaScript, Node.js, Express & MongoDB<br><br>🛠️ Created RoundWorld — a basic hotel & vacation rental platform<br>🎯 Actively preparing for placements and seeking internship/fresher roles<br>💡 Curious to explore new technologies and build better projects step by step
+🌱 Currently improving skills in React and Data Structures & Algorithms<br>🔹 Hands-on experience with HTML, CSS, JavaScript, Node.js, Express & MongoDB<br>🛠️ Created RoundWorld — a basic hotel & vacation rental platform<br>🎯 Actively preparing for placements and seeking internship/fresher roles<br>💡 Curious to explore new technologies and build better projects step by step
 
 
 ## 🌐 Socials:

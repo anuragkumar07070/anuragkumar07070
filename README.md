@@ -31,7 +31,7 @@ Paste a GitHub URL and get running Docker containers on a live URL, no Dockerfil
 
 `Node.js` `Docker` `Nginx` `Terraform` `AWS EC2` `SQLite` `React`
 
-### 🍽️ QuickDine: QR-based restaurant ordering
+### [🍽️ QuickDine](https://d3ej02bp284g7e.cloudfront.net/): QR-based restaurant ordering
 Customers scan a table QR code, order, pay with **Razorpay** and track the order live. Frontend on **S3 + CloudFront**, backend on **Lambda + API Gateway**, all defined in a **CloudFormation** template. JWT auth with role-based access control and real-time updates over Socket.IO.
 
 `React` `Node.js` `MongoDB` `Socket.IO` `AWS Lambda` `CloudFormation`
